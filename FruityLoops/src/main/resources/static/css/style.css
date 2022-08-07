@@ -1,0 +1,17 @@
+@charset "ISO-8859-1";
+
+container{
+	width: 60%;
+	margin: 0px auto;
+	margin-top: 20px;
+}
+
+#fruitstore{
+	color: pink;
+	margin-top: 20px;
+}
+
+
+body{
+	background-color: lightblue;
+}
